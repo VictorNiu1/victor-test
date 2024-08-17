@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/classroom/team-os/victor-test/victor-test/static/css/main.f462518c.css",
-    "main.js": "/classroom/team-os/victor-test/victor-test/static/js/main.40b4e99a.js",
-    "static/media/robot.png": "/classroom/team-os/victor-test/victor-test/static/media/robot.8d5dee2c0536f37931c0.png",
-    "static/media/background.jpg": "/classroom/team-os/victor-test/victor-test/static/media/background.95036af7d1f71c5ea177.jpg",
-    "index.html": "/classroom/team-os/victor-test/victor-test/index.html",
-    "main.f462518c.css.map": "/classroom/team-os/victor-test/victor-test/static/css/main.f462518c.css.map",
-    "main.40b4e99a.js.map": "/classroom/team-os/victor-test/victor-test/static/js/main.40b4e99a.js.map"
+    "main.css": "./classroom/team-os/victor-test/victor-test/static/css/main.f462518c.css",
+    "main.js": "./classroom/team-os/victor-test/victor-test/static/js/main.40b4e99a.js",
+    "static/media/robot.png": "./classroom/team-os/victor-test/victor-test/static/media/robot.8d5dee2c0536f37931c0.png",
+    "static/media/background.jpg": "./classroom/team-os/victor-test/victor-test/static/media/background.95036af7d1f71c5ea177.jpg",
+    "index.html": "./classroom/team-os/victor-test/victor-test/index.html",
+    "main.f462518c.css.map": "./classroom/team-os/victor-test/victor-test/static/css/main.f462518c.css.map",
+    "main.40b4e99a.js.map": "./classroom/team-os/victor-test/victor-test/static/js/main.40b4e99a.js.map"
   },
   "entrypoints": [
     "static/css/main.f462518c.css",
